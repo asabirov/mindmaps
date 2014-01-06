@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<false/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array/>
+		<key>color</key>
+		<string>{1.000, 1.000, 1.000, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{0, 0}</string>
+				<key>nodeID</key>
+				<string>E278413C-F473-479F-9E3F-7DBC61FAB6D3</string>
+				<key>strokeColor</key>
+				<string>{0.500, 0.500, 0.500, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>attributedText</key>
+					<data>
+					YnBsaXN0MDDUAQIDBAUG5OVYJHZlcnNpb25Y
+					JG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGG
+					oK8QLQcIDxAXICEiIycxODxASElndn1+goeM
+					kZaboKWqr7S5vL2+wsrL19jZ2tvc4FUkbnVs
+					bNMJCgsMDQ5Wc3RyaW5nWmF0dHJpYnV0ZXNW
+					JGNsYXNzgAKAA4AsXExlYW4gU3RhcnR1cNIR
+					CxIWWk5TLm9iamVjdHOjExQVgASADYAjgB/T
+					GBELGRwfV05TLmtleXOiGhuABYAGoh0egAeA
+					CIAMXxAka01OQXR0cmlidXRlZFN0cmluZ0F0
+					dHJpYnV0ZVJhbmdlS2V5XxAoa01OQXR0cmli
+					dXRlZFN0cmluZ0F0dHJpYnV0ZUF0dHJpYnV0
+					ZUtleVd7MCwgMTJ90iQLJSZVY29sb3KACYAL
+					1QsoKSorLC0uLzBTcmVkVWFscGhhVGJsdWVV
+					Z3JlZW6ACiIAAAAAIj+AAAAiAAAAACIAAAAA
+					0jIzNDVaJGNsYXNzbmFtZVgkY2xhc3Nlc1hN
+					TkNDb2xvcqI2N1hNTkNDb2xvclhOU09iamVj
+					dNIyMzk6XxATTU5BU0ZvcmVncm91bmRDb2xv
+					cqI7N18QE01OQVNGb3JlZ3JvdW5kQ29sb3LS
+					MjM9Pl8QE05TTXV0YWJsZURpY3Rpb25hcnmj
+					PT83XE5TRGljdGlvbmFyedMYEQtBRB+iGhuA
+					BYAGokVGgA6AD4AMV3swLCAxMn3fEA9KS0xN
+					TgtPUFFSU1RVVldYWVpbXF1eX2BhYmNkZWZf
+					EBFtYXhpbXVtTGluZUhlaWdodFh0YWJTdG9w
+					c18QEHBhcmFncmFwaFNwYWNpbmdaaGVhZElu
+					ZGVudF1saW5lQnJlYWtNb2RlW2xpbmVTcGFj
+					aW5nWWFsaWdubWVudFp0YWlsSW5kZW50XxAR
+					bWluaW11bUxpbmVIZWlnaHRfEBZwYXJhZ3Jh
+					cGhTcGFjaW5nQmVmb3JlXxASZGVmYXVsdFRh
+					YkludGVydmFsXxASZmlyc3RMaW5lSGVhZElk
+					ZW50XxAUYmFzZVdyaXRpbmdEaXJlY3Rpb25f
+					EBJsaW5lSGVpZ2h0TXVsdGlwbGUiAAAAAIAQ
+					IgAAAAAiAAAAAIASgCIiAAAAAIAgIgAAAAAi
+					AAAAACIAAAAAIgAAAAAiAAAAAIAhIgAAAADS
+					EQtoFqxpamtsbW5vcHFyc3SAEYAUgBWAFoAX
+					gBiAGYAagBuAHIAdgB6AH9RQd3gLXHp7fFdv
+					cHRpb25zWGxvY2F0aW9ugBKAACJB4AAAgBMQ
+					ANIyM3+AW01OQVNUZXh0VGFiooE3W01OQVNU
+					ZXh0VGFi1FB3eAtceoV8gBKAACJCYAAAgBPU
+					UHd4C1x6inyAEoAAIkKoAACAE9RQd3gLXHqP
+					fIASgAAiQuAAAIAT1FB3eAtcepR8gBKAACJD
+					DAAAgBPUUHd4C1x6mXyAEoAAIkMoAACAE9RQ
+					d3gLXHqefIASgAAiQ0QAAIAT1FB3eAtceqN8
+					gBKAACJDYAAAgBPUUHd4C1x6qHyAEoAAIkN8
+					AACAE9RQd3gLXHqtfIASgAAiQ4wAAIAT1FB3
+					eAtcerJ8gBKAACJDmgAAgBPUUHd4C1x6t3yA
+					EoAAIkOoAACAE9IyM7q7V05TQXJyYXmiujcQ
+					BBQAAAAAAAAAAP//////////0jIzv8BfEBNN
+					TkFTUGFyYWdyYXBoeVN0eWxlosE3XxATTU5B
+					U1BhcmFncmFwaHlTdHlsZdMYEQvDxh+iGhuA
+					BYAGosfIgCSAJYAMV3swLCAxMn3WzM3Oz9AL
+					0dLT1NXWVHNpemVYZm9udE5hbWVZZXhwYW5z
+					aW9uW29ibGlxdWVuZXNzXxASYmFzZWxpbmVB
+					ZGp1c3RtZW50gCeAJoAqgCmAKIArXEx1Y2lk
+					YUdyYW5kZSJBUAAAIgAAAAAiAAAAACIAAAAA
+					0jIz3d5YTU5BU0ZvbnSi3zdYTU5BU0ZvbnTS
+					MjPh4l8QE01OQ0F0dHJpYnV0ZWRTdHJpbmei
+					4zdfEBNNTkNBdHRyaWJ1dGVkU3RyaW5nXxAP
+					TlNLZXllZEFyY2hpdmVy0ebnXxARTU5DMGRl
+					clJvb3RPYmplY3SAAQAIABEAGgAjAC0AMgA3
+					AGcAbQB0AHsAhgCNAI8AkQCTAKAApQCwALQA
+					tgC4ALoAvADDAMsAzgDQANIA1QDXANkA2wEC
+					AS0BNQE6AUABQgFEAU8BUwFZAV4BZAFmAWsB
+					cAF1AXoBfwGKAZMBnAGfAagBsQG2AcwBzwHl
+					AeoCAAIEAhECGAIbAh0CHwIiAiQCJgIoAjAC
+					UQJlAm4CgQKMApoCpgKwArsCzwLoAv0DEgMp
+					Az4DQwNFA0oDTwNRA1MDWANaA18DZANpA24D
+					cwN1A3oDfwOMA44DkAOSA5QDlgOYA5oDnAOe
+					A6ADogOkA6YDrwO3A8ADwgPEA8kDywPNA9ID
+					3gPhA+0D9gP4A/oD/wQBBAoEDAQOBBMEFQQe
+					BCAEIgQnBCkEMgQ0BDYEOwQ9BEYESARKBE8E
+					UQRaBFwEXgRjBGUEbgRwBHIEdwR5BIIEhASG
+					BIsEjQSWBJgEmgSfBKEEqgSsBK4EswS1BL4E
+					wATCBMcEyQTOBNYE2QTbBOwE8QUHBQoFIAUn
+					BSoFLAUuBTEFMwU1BTcFPwVMBVEFWgVkBXAF
+					hQWHBYkFiwWNBY8FkQWeBaMFqAWtBbIFtwXA
+					BcMFzAXRBecF6gYABhIGFQYpAAAAAAAAAgEA
+					AAAAAAAA6AAAAAAAAAAAAAAAAAAABis=
+					</data>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs26 \cf0 Lean Startup}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCZKEhIQITlNT
+	dHJpbmcBlIQBKw9wcmludEJhY2tncm91bmSGkoSEhAhOU051bWJlcgCEhAdOU1ZhbHVl
+	AJSEASqEhAFjnQCGkoSZmRZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEm5ydnQGGkoSZ
+	mQ1OU1JpZ2h0TWFyZ2luhpKEm5yEhAFmnkiGkoSZmQxOU0xlZnRNYXJnaW6GkoSbnKKe
+	SIaShJmZFU5TSG9yaXpvbmFsUGFnaW5hdGlvboaShJuchIQBcZ8BhpKEmZkUTlNWZXJ0
+	aWNhbFBhZ2luYXRpb26GkqaShJmZFE5TVmVydGljYWxseUNlbnRlcmVkhpKfkoSZmQtO
+	U1RvcE1hcmdpboaShJucop5ahpKEmZkOTlNCb3R0b21NYXJnaW6GkoSbnKKeWoaGhg==
+	</data>
+	<key>title</key>
+	<string>Lean Startup</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>
